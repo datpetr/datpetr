@@ -1,6 +1,7 @@
 # 💫 About Me:
 <br>- I'm currently working on: 🛠️ Developing data analysis projects using Python, including building predictive models and dashboards.<br>- I'm looking to collaborate on: 🤝 Projects that apply machine learning and AI to solve real-world business challenges.<br>- I'm looking for help with: 🚀 Enhancing my skills in advanced ML techniques and integrating new tools into data pipelines.<br>- I'm currently learning: 📚 Advanced statistics in METU (Turkey, Ankara).<br>- Ask me about: ❓ My work with Python, SQL, data visualization, and my hands-on experience in predictive analytics.<br>- Fun fact: 🎉 I regularly organize online math classes for kids and enjoy calisthenics and drawing to keep my creativity and discipline sharp.
 
+---
 ###
 
 <div align="center">
