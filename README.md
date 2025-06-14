@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://duckduckgo.com/?q=toji+gif&t=ffab&iar=images&iai=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FIyyEo2oZkaYAAAAC%2Ftoji-fushiguro.gif](https://media1.tenor.com/m/IyyEo2oZkaYAAAAd/toji-fushiguro.gif)"  />
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F75OAGYXw-tkAAAAC%2Ftoji-fushiguro.gif&f=1&nofb=1&ipt=38457293681f655d828ea5d07a5f89faf2f8c3a4defce8fd41bd821ff022b0bd"  />
 
 ###
 
