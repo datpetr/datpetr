@@ -62,7 +62,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datpetr/datpetr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datpetr/datpetr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://github.com/datpetr/datpetr/blob/main/workflows/pacman-contributions.svg">
+  <img alt="pacman contribution graph" src="[https://github.com/datpetr/datpetr/blob/main/workflows/pacman-contributions.svg](https://github.com/datpetr/datpetr/blob/main/workflows/pacman-contributions.svg)">
 </picture>
 
 ###
