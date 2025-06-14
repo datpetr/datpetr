@@ -66,11 +66,3 @@
 </picture>
 
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/datpetr/datpetr/output/snake.svg" alt="Snake animation" />
-
-###
