@@ -9,7 +9,7 @@ I build software for self-driving robots and payment systems - currently working
 
 <br>
 
-I've worked on code across embedded systems, backend, web, and mobile, on two production systems at once. If you want to talk about robotics, ML, or building things that run on real hardware, reach out.
+I've worked across embedded systems, backend, web, and mobile, on two production systems at once. If you want to talk about robotics, ML, or building things that run on real hardware, reach out.
 
 ---
 
