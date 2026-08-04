@@ -1,6 +1,6 @@
 # About Me
 
-I build software for self-driving robots and payment systems — currently working as a software engineer at a robotics startup and as a data scientist at a high-volume payments platform, at the same time.
+I build software for self-driving robots and payment systems - currently working as a software engineer at a robotics startup and as a data scientist at a high-volume payments platform, at the same time.
 
 <br>
 
