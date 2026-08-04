@@ -6,7 +6,6 @@ I build software for self-driving robots and payment systems — currently worki
 
 - **Robotics:** navigation and sensor fusion (EKF), visual route following, fleet monitoring dashboard, Android control app
 - **Data science:** anomaly detection and forecasting on payment volumes, production ML pipelines
-- **Background:** Statistics student at METU (Ankara, Turkey)
 
 <br>
 
